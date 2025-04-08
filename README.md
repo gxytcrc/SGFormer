@@ -1,4 +1,4 @@
-  <h1 align="center">Satellite-Ground Fusion for 3D Semantic Scene Completion [CVPR'25]</h1>
+  <h1 align="center">SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion [CVPR'25]</h1>
   <h3 align="center"><a href="https://zju3dv.github.io/sgformer/">🌐Project page</a> | <a href="https://www.arxiv.org/abs/2503.16825">📝Paper</a></h3>
   <p align="center">
     <a href="https://github.com/gxytcrc/"><strong>Xiyue Guo</strong><sup>1</sup></a>
