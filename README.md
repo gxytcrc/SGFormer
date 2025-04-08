@@ -17,7 +17,7 @@
   </p>
 
 
-This is the official implementation of <strong>SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion</strong>. SGFormer is the first satellite-ground cooperative SSC framework that achieves better scene semantic completion results
+This is the official implementation of <strong>SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion</strong>. SGFormer is the first satellite-ground cooperative SSC framework that achieves state-of-the-art performance in scene semantic completion.
     
 # News
 - [x] 2025.02.26 --- Our paper has been accepted at CVPR 2025！  
