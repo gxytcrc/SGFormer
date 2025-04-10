@@ -23,6 +23,11 @@ This is the official implementation of <strong>SGFormer: Satellite-Ground Fusion
     <img src="https://github.com/gxytcrc/fictional-succotash/blob/main/pipeline.jpg" alt="SGFormer pipeline" width="100%">
   </a>
 
+# Visualization Result
+  <a href="">
+    <img src="https://github.com/gxytcrc/fictional-succotash/blob/main/vis.jpg" alt="SGFormer pipeline" width="100%">
+  </a>
+
     
 # News
 - [x] 2025.02.26 --- Our paper has been accepted at CVPR 2025！  
