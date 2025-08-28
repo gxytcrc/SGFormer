@@ -31,4 +31,5 @@ This is the official implementation of <strong>SGFormer: Satellite-Ground Fusion
     
 # News
 - [x] 2025.02.26 --- Our paper has been accepted at CVPR 2025！  
-- [x] 2025.04.08 --- We have updated the `README.md` and are preparing to open-source our code！  
+- [x] 2025.04.08 --- We have updated the `README.md` and are preparing to open-source our code！
+- [x] 2025.08.25 --- We have update our code 
