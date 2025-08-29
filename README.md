@@ -28,10 +28,6 @@ This is the official implementation of <strong>SGFormer: Satellite-Ground Fusion
     <img src="https://github.com/gxytcrc/fictional-succotash/blob/main/vis.jpg" alt="SGFormer pipeline" width="100%">
   </a>
 
-# Training
-**pretrained weight**
-
-The pretrained weight of our sat-backbone can be downloaded from [(Google Drive)](https://drive.google.com/file/d/1qjv9dLFNdn_fJ9a2MOxBfwMrhhX9E6Y6/view?usp=drive_link)
 
 # News
 - [x] 2025.02.26 --- Our paper has been accepted at CVPR 2025！  
