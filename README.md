@@ -30,6 +30,7 @@ This is the official implementation of <strong>SGFormer: Satellite-Ground Fusion
 
 # Training
 **pretrained weight**
+
 The pretrained weight of our sat-backbone can be downloaded from [(Google Drive)](https://drive.google.com/file/d/1qjv9dLFNdn_fJ9a2MOxBfwMrhhX9E6Y6/view?usp=drive_link)
 
 # News
