@@ -23,6 +23,11 @@ This is the official implementation of <strong>SGFormer: Satellite-Ground Fusion
     <img src="https://github.com/gxytcrc/fictional-succotash/blob/main/pipeline.jpg" alt="SGFormer pipeline" width="100%">
   </a>
 
+# Training
+Download the pretrained weight of the satellite backbone [Semantic-KITTI: Google Drive](https://drive.google.com/file/d/1qjv9dLFNdn_fJ9a2MOxBfwMrhhX9E6Y6/view?usp=drive_link)
+
+# Eval
+Download the weight of our model [Semantic-KITTI: Google Drive](https://drive.google.com/file/d/1UZ6YnTw26JzWdgxiqbNF8yV3LCB1jBzD/view?usp=drive_link)
 # Visualization Result
   <a href="">
     <img src="https://github.com/gxytcrc/fictional-succotash/blob/main/vis.jpg" alt="SGFormer pipeline" width="100%">
