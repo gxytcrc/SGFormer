@@ -26,8 +26,15 @@ This is the official implementation of <strong>SGFormer: Satellite-Ground Fusion
 # Training
 Download the pretrained weight of the satellite backbone [Semantic-KITTI: Google Drive](https://drive.google.com/file/d/1qjv9dLFNdn_fJ9a2MOxBfwMrhhX9E6Y6/view?usp=drive_link)
 
+```shell
+python train.py 
+```
+
 # Eval
 Download the weight of our model [Semantic-KITTI: Google Drive](https://drive.google.com/file/d/1UZ6YnTw26JzWdgxiqbNF8yV3LCB1jBzD/view?usp=drive_link)
+```shell
+python eval.py 
+```
 # Visualization Result
   <a href="">
     <img src="https://github.com/gxytcrc/fictional-succotash/blob/main/vis.jpg" alt="SGFormer pipeline" width="100%">
