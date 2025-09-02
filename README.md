@@ -12,7 +12,7 @@
     <a href="http://www.cad.zju.edu.cn/home/gfzhang/"><strong>Guofeng Zhang</strong><sup>1*</sup></a>
     <br>
     <sup>1 </sup>State Key Lab of CAD&CG, Zhejiang University,
-    <sup>2 </sup>Chinese Universty of Hangkang, Shenzhen<br>
+    <sup>2 </sup>Chinese University of Hong Kong, Shenzhen<br>
     <sup>* </sup>Corresponding author.<br>
   </p>
 
