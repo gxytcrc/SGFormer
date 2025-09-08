@@ -185,7 +185,7 @@ class train_data(Dataset):
             #     self.vox_root, "dataset", "sequences_" + self.depthmodel + "_sweep"+ self.nsweep, sequence, "queries", "*." + self.query_tag
             # )
             glob_path = os.path.join(
-                self.vox_root, "dataset", "my_geo", sequence, "*." + "query"
+                self.vox_root, "dataset", "labels", sequence, "*_1_1." + "npy"
             )
             
             for proposal_path in sorted(glob.glob(glob_path)):
@@ -325,19 +325,17 @@ class train_data(Dataset):
             cam_intrinsics.append(intrinsic)
             image_paths.append(rgb_path)
 
-        proposal_bin = self.read_occupancy_SemKITTI(proposal_path)
-        pseudo_pc_bin = self.read_occupancy_SemKITTI(depth_path)
+        # proposal_bin = self.read_occupancy_SemKITTI(proposal_path)
+        # pseudo_pc_bin = self.read_occupancy_SemKITTI(depth_path)
         meta_dict = dict(
             sequence_id = sequence,
             frame_id = frame_id,
-            proposal=proposal_bin,
             img_filename=image_paths,
             lidar2img = lidar2img_rts,
             lidar2cam=lidar2cam_rts,
             cam_intrinsic=cam_intrinsics,
             cam_p = P,
             img_shape = [(self.img_H,self.img_W)],
-            pseudo_pc = pseudo_pc_bin,
             depth = depth
         )
 
